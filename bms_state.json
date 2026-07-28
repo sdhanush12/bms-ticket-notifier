@@ -80,37 +80,53 @@
       "price": "96.74",
       "status": "0"
     },
-    "PABC|20490|20260730|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "01:20 PM",
-      "date": "20260730",
-      "cat": "PRIME",
-      "price": "250.98",
-      "status": "0"
-    },
-    "PABC|20490|20260730|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "01:20 PM",
-      "date": "20260730",
-      "cat": "CLASSIC",
-      "price": "101.74",
-      "status": "0"
-    },
-    "PVHC|30490|20260730|PRIME": {
+    "PVHC|30534|20260730|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:40 PM",
+      "time": "01:10 PM",
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "0"
+      "status": "2"
     },
-    "PVHC|30490|20260730|CLASSIC": {
+    "PVHC|30534|20260730|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:40 PM",
+      "time": "01:10 PM",
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "96.74",
       "status": "0"
+    },
+    "PCAN|42273|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "12:30 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "1"
+    },
+    "PCAN|42273|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "12:30 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "1"
+    },
+    "PCAN|42274|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "03:40 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "1"
+    },
+    "PCAN|42274|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "03:40 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
     }
   },
   "dates": {
