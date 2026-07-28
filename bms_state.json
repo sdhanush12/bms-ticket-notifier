@@ -22,7 +22,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39791|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -118,8 +118,8 @@
     "20260731": "AVAILABLE",
     "20260801": "AVAILABLE",
     "20260802": "AVAILABLE",
-    "20260803": "NOT_OPEN",
-    "20260804": "NOT_OPEN",
-    "20260805": "NOT_OPEN"
+    "20260803": "AVAILABLE",
+    "20260804": "AVAILABLE",
+    "20260805": "AVAILABLE"
   }
 }
